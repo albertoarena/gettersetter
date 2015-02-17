@@ -1,3 +1,10 @@
+/**
+ * Getter/Setter
+ *
+ * @author Alberto Arena <arena.alberto@gmail.com>
+ * @licence MIT https://github.com/albertoarena/gettersetter/blob/master/LICENSE-MIT
+ *
+ */
 define([], function () {
     return function (initValue, callback) {
         var val = initValue;
